@@ -4,13 +4,13 @@
 ## Installation
 
 ```shell
-  npm install csnrg --save
+  npm install csrng --save
 ```
 
 ## Usage
 
 ```js
-  var gen = require('csnrg');
+  var gen = require('csrng');
 
   //output a number (as string) with base 16 and a length of 10
   gen.setOutputSettings(16,10);
@@ -37,7 +37,7 @@
 * Can create numbers which are a lot bigger than the usual cap
 * Define your own digits and the hierarchy of them
 
-## Release History
+## Noteworthy Release History
 
 * 0.1.1 Added tests and corrected a calculation
 * 0.1.0 Initial release

@@ -1,6 +1,6 @@
 {
   "name": "csrng",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "(C)riptographically (S)ecure (R)andom (N)umber (G)enerator",
   "main": "index.js",
   "scripts": {
